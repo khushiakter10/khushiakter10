@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://github.com/khushiakter10/my_profile/blob/main/assets/Hi!%20I%E2%80%99m%20Khushi.mp4" />
+<img align="center" alt="Coding" width="100%" src="https://github.com/khushiakter10/my_profile/blob/main/assets/HiImKhushi-ezgif.com-video-to-gif-converter%20(1).gif" />
 <img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/khushiakter10/assets/main/flutter-coding.gif" />
 
 <h1 align="center">
