@@ -10,7 +10,7 @@
   I love turning ideas into elegant, scalable code and constantly learning new tech to stay on top of the game.
 </h4><br>
 
-<img align="right" alt="Flutter Developer" width="400" src="https://raw.githubusercontent.com/khushiakter10/assets/main/flutter-dev.png" />
+<img align="right" alt="Flutter Developer" width="400" src="https://github.com/khushiakter10/my_profile/blob/main/assets/Femaledeveloperworkingonappdevelopment-ezgif.com-video-to-gif-converter.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushiakter10&label=Profile%20views&color=0e75b6&style=flat" alt="khushiakter10" /> </p>
 
